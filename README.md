@@ -21,8 +21,8 @@ You can explore all my projects here:
 ## Connect With Me
 
 - GitHub: [Rj2057](https://github.com/Rj2057)
-- LinkedIn: [Add your LinkedIn link here](PASTE_YOUR_LINKEDIN_LINK_HERE)
-- Email: [Add your email here](mailto:YOUR_EMAIL_HERE)
+- LinkedIn: [Rajat](https://www.linkedin.com/in/rajatbhat20)
+- Email: [RJ](mailto:bhatrajat14@gmail.com)
 
 ---
 
