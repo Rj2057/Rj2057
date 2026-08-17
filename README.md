@@ -1,8 +1,7 @@
 
 # Hi, I'm Rajat Bhat 👋
 
-🎓 Computer Science Engineering student  
-📅 Graduating in 2027  
+🎓 Computer Science Engineering student    
 💻 Interested in software development, programming, and building useful projects.
 
 ## About Me
